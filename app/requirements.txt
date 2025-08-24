@@ -1,4 +1,7 @@
 numpy
-streamlit
 tensorflow
+Pillow
+streamlit
 google-generativeai
+python-dotenv
+protobuf
